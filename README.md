@@ -1,1 +1,1 @@
-# juniordev-devops-weekly-tasks
+# JuniorDev Mentoring Program - DevOps Weekly Tasks
